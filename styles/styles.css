@@ -1,0 +1,27 @@
+body{
+    font-family: Courier New, Courier, monospace;
+    font-size: 12pt;
+    color: #666;
+}
+h1{
+    color: green; 
+    font-size: 14pt;
+}
+#add_task_button{
+    background-color: #449d44;
+    color: #fff;
+    border-radius: 4px;
+    border-color: #ccc;
+}
+#add_task_button:hover{
+   background-color: black;
+   opacity: 0.50;
+}
+
+li:hover{
+    color: green;
+}
+
+.cross{
+     text-decoration: line-through;
+}
